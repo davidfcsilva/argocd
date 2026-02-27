@@ -7,5 +7,5 @@ spec:
   selector:
     app: nginx
   ports:
-    - port: 81
-      targetPort: 81
+    - port: 82
+      targetPort: 82
